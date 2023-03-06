@@ -20,6 +20,7 @@ Leaving out the platform specific steps you need to get Angular installed on you
 	ng generate component messages
 	ng generate service message
 	ng generate module app-routing --flat --module=app
+	ng generate component dashboard
 
 # Original Document:
     
