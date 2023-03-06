@@ -1,7 +1,20 @@
+# Run
+
+
+    ng serve --open
+
+
+
+# Genesis
+
+
+Leaving out the platform specific steps you need to get Angular installed on your system, and establishing the project on github.
+
 [Create](https://angular.io/tutorial/tour-of-heroes/toh-pt0) this project:
 
 
     ng new angular-tour-of-heroes
+	ng generate component heroes
 
 
 # Original Document:
