@@ -15,6 +15,7 @@ Leaving out the platform specific steps you need to get Angular installed on you
 
     ng new angular-tour-of-heroes
 	ng generate component heroes
+	ng generate component hero-detail
 
 
 # Original Document:
