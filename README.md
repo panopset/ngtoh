@@ -1,6 +1,8 @@
 # [Run](http://localhost:4200/heroes)
 
 
+    npm install
+	ng build
     ng serve --open
 
 
