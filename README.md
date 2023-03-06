@@ -17,6 +17,7 @@ Leaving out the platform specific steps you need to get Angular installed on you
 	ng generate component heroes
 	ng generate component hero-detail
 	ng generate service hero
+	ng generate component messages
 
 
 # Original Document:
